@@ -4,3 +4,5 @@ data/
 #Ignore venv
 venv/
 
+#Ignore checkpoints
+*ipynb_checkpoints/*
